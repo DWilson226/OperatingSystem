@@ -1,1 +1,2 @@
 I have used various operating systems over the year, such as DOS, PC DOS, CP/M Plus, Unix, VMS, Android, Windows versions 3.0 to 10, plus NT and various Server editions, TRSDOS (for Trash-80’s) and Linux.
+VMS was the software for DEC’s VAX computers. The VAX/VMS software was first released in 1977 and the name has changed from Star with V1.0 to VAX/VMS with v2.0 and OpenVMS in 1980 which is still in production. The current version is 8.4-2L1.
