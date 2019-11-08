@@ -10,4 +10,6 @@ OpenVMS offers many features that are now considered standard requirements for a
 •	Hardware partitioning of multiprocessors
 •	High level of security
 
+The OpenVMS software is not used for your typical smaller businesses or as their website states “OpenVMS remains the operating environment of choice for enterprises that require mission critical business continuity, scalability, high availability, and uncompromising security.” Thus, not marketed to “Ma & Pa” type of organizations, so this could be considered a con. But I don’t believe OpenVMS would agree.
 
+Yeah...time to clone myself!
